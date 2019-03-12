@@ -1,0 +1,19 @@
+{
+  "name": "awesomeproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moz200/social-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moz200/social-api/issues"
+  },
+  "homepage": "https://github.com/moz200/social-api#readme"
+}
